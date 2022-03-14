@@ -66,7 +66,7 @@ exit();
                         <button type="submit" name="submit" class="btn btn-info"><span class="glyphicon glyphicon-user"></span> &nbsp;Log Me In </button>&nbsp;
                 </div>
                 </form>
-                
+
 
             </div>
         </div>
@@ -79,4 +79,3 @@ exit();
     <script src="assets/js/bootstrap.js"></script>
 </body>
 </html>
-
